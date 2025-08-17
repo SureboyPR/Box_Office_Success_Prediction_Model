@@ -31,7 +31,7 @@ We experimented with multiple models to evaluate performance:
 ### 🔹 Power BI Dashboard  
 A dashboard was built in **Power BI** to explore movie performance, revenue, and trends:  
 
-![Movie Performance Dashboard](images/Dashboard.png)  
+![Movie Performance Dashboard](Dashboard.png)  
 
 ---
 
