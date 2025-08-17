@@ -38,21 +38,21 @@ A dashboard was built in **Power BI** to explore movie performance, revenue, and
 ### 🔹 Top Categories  
 Top Performing Categories:  
 
-![Genre Distribution](images/top_performing_cats.png) 
+![Genre Distribution](top_performing_cats.png) 
 
 ---
 
 ### 🔹 Distribution Visuals  
 General Distribution Visual:  
 
-![Genre Distribution](images/distribution_visuals.png) 
+![Genre Distribution](distribution_visuals.png) 
 
 ---
 
 ### 🔹 Revenue Trends  
 Yearly revenue trend and performance analysis:  
 
-![Revenue Trend](images/revenue_trend.png)  
+![Revenue Trend](revenue_trend.png)  
 
 ---
 
